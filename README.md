@@ -1,4 +1,4 @@
-# Hello This Is First Project For Flutter Learning 
+# First Project For Flutter Learning 
 
 you can view app demo in the here ^ ^
 <br>
